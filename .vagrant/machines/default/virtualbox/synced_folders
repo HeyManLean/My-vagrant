@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/vhost":{"guestpath":"/home/vagrant/vhost","hostpath":"/Users/heymanlean/workspaces/lewan","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/heymanlean/workspaces/projects/My-vagrant","disabled":false,"__vagrantfile":true}}}
